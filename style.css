@@ -3,4 +3,6 @@ body {
   }
 div {
     color:grey;
+    border: 10px;
+    border-color: black;
 }
