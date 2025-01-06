@@ -2,8 +2,12 @@ body {
     font-family: Arial, sans-serif;
   }
 div {
-    color:grey;
     border: 10px;
+    height: 30px;
+    width: 50px;
     border-color: black;
     background-color: grey;
+}
+#ravharris {
+    color: black;
 }
