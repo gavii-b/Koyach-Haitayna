@@ -2,7 +2,9 @@ body {
     font-family: Arial, sans-serif;
   }
 div {
-    border: 10px;
+    border: 20px;
+    width: 30%;
+    height: 50%;
     border-color: black;
     background-color: grey;
 }
