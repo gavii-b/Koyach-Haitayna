@@ -1,3 +1,3 @@
-**[gavii-b.github.io](https://gavii-b.github.io/website/)**
+**[Koyach Haitayna](https://gavii-b.github.io/Koyach-Haitayna/)**
 
-Website to show the different types of Koyach Haitayna
+Website to show the different types of Koyach Haitayna.
