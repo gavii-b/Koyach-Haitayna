@@ -1,16 +1,17 @@
 body {
     font-family: Arial, sans-serif;
-  }
+}
 
 #third {
     height: 250px;
     width: 500px;
     margin: 20px;
-    border: 10px;
     padding: 20px;
     background-color: grey;
-    color: grey;
+    color: black;
+    border: 5px solid black;
 }
+
 #ravharris {
     color: black;
     background-color: transparent;
